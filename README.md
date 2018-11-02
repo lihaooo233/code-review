@@ -9,6 +9,9 @@ And I will show what I learn from the project of AgileBU project (https://github
 ## React application:
 The front end used create-react-app which is a useful tool of facebook. It is much easier to focus on code because the environment of 
 node.js is aleardy configured. That is a smart choice if you want to create a react application. 
+## readme:
+I have to say the readme of the project is really awesome, especially the backe-end part, I learnt a lot from it about how to use
+PostgreSQL database. Very detailed.
 
 ## Login system:
 The Login system used react-google-login module(https://github.com/anthonyjgrove/react-google-login). User could log in the system
@@ -24,3 +27,10 @@ for each block to let instructers add some notes.
 
 ## backend-database:
 Used PostgreSQL to store the data like id, email and name, Conveniently enough.
+
+
+
+
+https://reactjs.org/
+https://github.com/anthonyjgrove/react-google-login
+https://www.postgresql.org/
