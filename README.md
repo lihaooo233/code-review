@@ -23,4 +23,4 @@ add a function that could edit every information of a block(name,email address..
 for each block to let instructers add some notes.
 
 ## backend-database:
-Used PostgreSQL to store the data like id, email and name, Conveniently enough.
+Used PostgreSQL to store the data like id, email and name, Conveniently enough .
