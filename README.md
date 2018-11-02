@@ -32,5 +32,7 @@ Used PostgreSQL to store the data like id, email and name, Conveniently enough.
 
 
 https://reactjs.org/
+
 https://github.com/anthonyjgrove/react-google-login
+
 https://www.postgresql.org/
