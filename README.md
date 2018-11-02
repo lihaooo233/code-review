@@ -6,6 +6,9 @@
 
 There are several parts in the diagram which are achieved by different technology. Some of them seems a little beyond my level.
 And I will show what I learn from the project of AgileBU project (https://github.com/ayshimz/AgileBU).
+# React application:
+The front end used create-react-app which is a useful tool of facebook. It is much easier to focus on code because the environment of 
+node.js is aleardy configured. That is a smart choice if you want to create a react application. 
 
 # Login system:
 The Login system used react-google-login module(https://github.com/anthonyjgrove/react-google-login). User could log in the system
