@@ -16,11 +16,11 @@ by using their google account, and the call-back information may could help the 
 
 ## interaction:
 
-![draft](https://github.com/lihaooo233/code-review/blob/master/example.png)
+![draft](https://github.com/lihaooo233/code-review/blob/master/examp.png)
 The achieved functions are log in, move blocks to other lines. The functions work well and the idea is interesting! However, it seems
 That users could not create a new blocks or get information from database to create a block. And my advice is that you could try to 
 add a function that could edit every information of a block(name,email address...). Besides, I think there should have a empty space 
 for each block to let instructers add some notes.
 
 ## backend-database:
-Used PostgreSQL to store the data like id, email and name, Conveniently enough .
+Used PostgreSQL to store the data like id, email and name, Conveniently enough.
