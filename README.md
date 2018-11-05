@@ -23,7 +23,11 @@ by using their google account, and the call-back information may could help the 
 The achieved functions are log in, move blocks to other lines. The functions work well and the idea is interesting! However, it seems
 That users could not create a new blocks or get information from database to create a block. And my advice is that you could try to 
 add a function that could edit every information of a block(name,email address...). Besides, I think there should have a empty space 
-for each block to let instructers add some notes.
+for each block to let instructers add some notes.The program used react-beautiful-dnd(https://github.com/atlassian/react-beautiful-dnd) to achieve most of the function. Because of a comment of Board.js , I find the tutorial video of how to install and use react-beautiful-dnd. I think this comment should be more obvious( better to be showed in readme ), or it is quite difficult to find. 
+The code follows the dragdrop function of react-beautiful-dnd and add one more line(seems the example only has two lines) and add some css style make the whole function more beautiful, this is very good. Store different css and js file seperately is a good manner which I should learn.
+And the log in function followed the react-google-login and it works properly
+Some advices: 1. I think more comments could let the code easier to understand. 2. I think you could make a sort function (base on the first letter of username maybe) to sort the blocks of each line which could let the page seems  cleaner.
+Your assessment of their testing
 
 ## backend-database:
 Used PostgreSQL to store the data like id, email and name, Conveniently enough.
